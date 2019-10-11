@@ -1,0 +1,2 @@
+[workspace]
+members = ["solar-db", "solar-lattice", "solar-rules", "solar-pod"]
